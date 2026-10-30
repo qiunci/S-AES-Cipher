@@ -60,7 +60,7 @@ S-AES（Simplified AES）是圣塔·克拉拉大学 Edward Schaefer 教授及其
 
 | 基本加解密                                           | CBC 模式                                   |
 | ---------------------------------------------------- | ------------------------------------------ |
-| ![基本加解密](Screenshots/界面预览/1-基本加解密.png) | ![CBC](Screenshots/界面预览/5-CBC模式.png) |
+| ![基本加解密](Screenshots/第一关基本测试/加解密测试.png) | ![CBC](Screenshots/第五关工作模式/CBC模式加密.png) |
 
 ---
 
