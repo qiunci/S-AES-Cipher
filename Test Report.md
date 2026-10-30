@@ -166,7 +166,9 @@
 
 ### 3.4 测试截图
 
-【待补充】`Screenshots/第二关/交叉测试-本组.png`、`Screenshots/第二关/交叉测试-他组.png`
+![其他](Screenshots/第二关交叉测试/其他组别明密文.png)
+![本组](`Screenshots/第二关交叉测试/本组测试明密文.png)
+
 
 ### 3.5 结论
 
