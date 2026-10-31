@@ -76,7 +76,7 @@ S-AES（Simplified AES）是圣塔·克拉拉大学 Edward Schaefer 教授及其
 
 ```bash
 # 1. 克隆仓库（把地址换成你自己的仓库）
-git clone 【待补充：仓库地址】
+git clone https://github.com/qiunci/S-AES-Cipher
 cd S-AES-Cipher/S-AES
 
 # 2. 编译
