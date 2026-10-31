@@ -85,7 +85,7 @@ javac -encoding UTF-8 -d out src/main/java/saes/*.java
 # 3. 运行图形界面
 java -cp out saes.SAESGuiApp
 
-# 4. 运行命令行自检（对照教材例子并输出测试数据）
+# 4. 运行命令行自检（提供测试数据）
 java -cp out saes.SAESSelfTest
 ```
 
